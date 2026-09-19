@@ -1,4 +1,4 @@
-# SAP Autonomous Finance Demo — Joule Skill
+# SAP Autonomous Finance Receivables Demo — Joule Skill (AI agents Enterprise Service Management ESM, Accounts Receivables AR, Recurring Receivables RR)
 
 [![REUSE compliant](https://api.reuse.software/badge/github.com/sourajitaghosh/sg-esm_accountsreceivables_recurringreceivables_finance_jouleskills_aiagentsdemo)](https://api.reuse.software/info/github.com/sourajitaghosh/sg-esm_accountsreceivables_recurringreceivables_finance_jouleskills_aiagentsdemo)
 
@@ -8,10 +8,7 @@ No live SAP system is connected. All data is illustrative mock data. Built to sh
 
 ## Install
 
-```bash
-npx skills add sourajitaghosh/sg-esm_accountsreceivables_recurringreceivables_finance_jouleskills_aiagentsdemo
-
-npx skills add sourajitaghosh/sg-esm_accountsreceivables_recurringreceivables_finance_jouleskills_aiagentsdemo --skill sap-autonomous-finance-esm-ar-rr-demo
+Run in Joule Work Desktop as a skill
 ```
 
 ## How to Start a Demo
