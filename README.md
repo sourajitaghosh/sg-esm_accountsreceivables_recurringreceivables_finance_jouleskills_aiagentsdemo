@@ -2,7 +2,7 @@
 
 **AI Agents | Enterprise Service Management (ESM) | Accounts Receivable (AR) | Recurring Receivables (RR)**
 
-A Joule Work Desktop skill showcasing **SAP Autonomous Finance** across four blended demo flows:
+A Joule Work Desktop skill showcasing **SAP Autonomous Finance** ART OF THE POSSIBLE across four blended demo flows:
 
 - Enterprise Service Management (ESM)
 - Accounts Receivable (AR)
